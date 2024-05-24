@@ -25,3 +25,6 @@ console.log(highAndLow('5 2 1 10 11'))
 // sort the array in descending order
 // declare a variable maxAndMinand assign it to `${numbers[0]} ${numbers[numbers.length - 1]}`
 // return maxAndMin
+
+
+module.exports = highAndLow
